@@ -1,0 +1,9 @@
+button[routerLink] {
+  /* Customize your button styles here */
+  background-color: #007bff;
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
